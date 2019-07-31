@@ -1,0 +1,13 @@
+
+# **NOTE**
+# 1. Empty strings are truthy.
+
+- id: tab-note
+  name: 温故知新
+  fp: tab/test.html
+  disabled: false
+
+# - id: tab-test1s
+#   name: diasble-test
+#   fp: tab/test1.html
+#   disabled: true

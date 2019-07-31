@@ -1,0 +1,67 @@
+# Site settings
+
+author: BuddyZeng
+email: 1083093341@qq.com
+twitter_username: none
+github_username:  none
+googleplus_username: none
+
+head-title: BuddyZeng`s Blog
+title: BuddyZeng`s Blog
+
+baseurl: "/zwr"    # the subpath of your site, "/blog"
+url: ""
+
+# footer 
+description: "爱是想要触碰又收回手。—塞林格"
+
+favo: "昨夜雨疏风骤，浓睡不消残酒"
+descrpt: "“昨夜雨疏风骤，浓睡不消残酒。试问卷帘人，却道海棠依旧。知否，知否，应是绿肥红瘦。”  —— 李清照《如梦令·昨夜雨疏风骤》"
+
+
+#
+# Build settings
+#
+
+#exclude: [vendor]
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  highlight: true
+  auto_ids:  true
+
+sass:
+  style: compressed
+
+permalink: /posts/:categories/:title.html
+
+paginate: 7
+#paginate_path: 'page/:num'
+
+gems: [jekyll-paginate, jekyll-last-modified-at, jemoji]
+
+
+#
+# Custom
+#
+
+# Color
+# All css class, see: http://materializecss.com/color.html
+header-color: "indigo lighten-1"
+head-theme-color: "#5c6bc0"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
+
+footer-color: "indigo lighten-1"
+footer-button-color: "indigo lighten-2"
+footer-link-color: "red-text text-accent-1"
+
+share-button-color: "pink"
+share-button-small-color: ""
+
+
+##
+#excerpt_separator: <!-- excerpt_end -->       # for post.excerpt
+

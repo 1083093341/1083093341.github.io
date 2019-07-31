@@ -6,11 +6,11 @@ permalink: /about/
 
 #### Tagline
 
-码不停蹄
+没有一蹴而就的天才，只有不断点亮天赋的勤者
 
 #### Introduction
 
-全能搬砖工程师
+做自己喜欢的事
 
 #### License
 

@@ -9,8 +9,8 @@ googleplus_username: none
 head-title: BuddyZeng`s Blog
 title: BuddyZeng`s Blog
 
-baseurl: "/zwr"    # the subpath of your site, "/blog"
-url: ""
+# baseurl: "/zwr"    # the subpath of your site, "/blog"
+# url: ""
 
 # footer 
 description: "爱是想要触碰又收回手。—塞林格"
